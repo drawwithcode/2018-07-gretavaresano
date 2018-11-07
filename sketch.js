@@ -108,7 +108,7 @@
 	    }
 
 
-	    else if (mostrecentword.indexOf("ap")!==-1)
+	    else if (mostrecentword.indexOf("up")!==-1)
 	    {
 	    pip.changeAnimation('right');
 	    pip.animation.rewind();
