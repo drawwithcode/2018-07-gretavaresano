@@ -51,7 +51,7 @@
 
 		// instructions
 
-		instruction = createSprite (130, 455);
+		instruction = createSprite (130, 438);
 		instruction.addAnimation('normal', 'indicazioni.png');
 	}
 
