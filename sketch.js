@@ -51,7 +51,7 @@
 
 		// instructions
 
-		instruction = createSprite (130, 415);
+		instruction = createSprite (130, 455);
 		instruction.addAnimation('normal', 'indicazioni.png');
 	}
 
@@ -108,7 +108,7 @@
 	    }
 
 
-	    else if (mostrecentword.indexOf("up")!==-1)
+	    else if (mostrecentword.indexOf("ap")!==-1)
 	    {
 	    pip.changeAnimation('right');
 	    pip.animation.rewind();
